@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>创俱的第一个网站</title>
-      <link href="/2023/07/14/%E5%88%9B%E4%BF%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99/"/>
-      <url>/2023/07/14/%E5%88%9B%E4%BF%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99/</url>
-      
-        <content type="html"><![CDATA[<h3 id="正式写blog和修改主题"><a href="#正式写blog和修改主题" class="headerlink" title="正式写blog和修改主题"></a>正式写blog和修改主题</h3><p>1.首先打开终端<code>Ctrl+R</code>→<strong>cmd</strong>→<code>cd &lt;folder&gt;</code>→<code>hexo new &quot;post title(自己的文章名)&quot;</code></p><p>2.在vs code中打开对应文件路径为C:\Users\xiaoshang\chuangju\</p><p>打开终端显示路径即出现</p><img src="https://s2.loli.net/2023/07/14/nUbKqzBTvHMEyPO.png"/><p>此页面叫做front matter也可称为页面属性<br>3.类似</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>创俱的第一个网站</title>
+    <url>/2023/07/14/%E5%88%9B%E4%BF%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h3 id="正式写blog和修改主题"><a href="#正式写blog和修改主题" class="headerlink" title="正式写blog和修改主题"></a>正式写blog和修改主题</h3><p>1.首先打开终端<code>Ctrl+R</code>→<strong>cmd</strong>→<code>cd &lt;folder&gt;</code>→<code>hexo new &quot;post title(自己的文章名)&quot;</code></p>
+<p>2.在vs code中打开对应文件路径为C:\Users\xiaoshang\chuangju\</p>
+<p>打开终端显示路径即出现</p>
+<img src="https://s2.loli.net/2023/07/14/nUbKqzBTvHMEyPO.png"/>
+
+<p>此页面叫做front matter也可称为页面属性<br>3.类似</p>
+]]></content>
+  </entry>
 </search>
